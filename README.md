@@ -1,10 +1,11 @@
 # Weather-App
-Hi I made this weather report app project using React. 
+Hi I made this weather report app project using CSS and React. 
 I got to learn a lot and it was an amazing experience.
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWE5tmU08dSpyj33WumdOYw49hPN9Hv_bLw&usqp=CAU">
+<img src="https://kobaltsolutions.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-08-at-4.06.03-PM.png">
 <br>I got to have hands on experience on:
-<li>JavaScript
 <li>HTML
+<li>CSS
+<li>JavaScript
 <li>React.js
 </br>
 
